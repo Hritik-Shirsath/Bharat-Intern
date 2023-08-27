@@ -34,5 +34,3 @@ This project demonstrates flower species prediction using linear regression, alt
 - Install the necessary libraries using `pip install -r requirements.txt`.
 - Open each Jupyter Notebook file using Jupyter Notebook or Jupyter Lab.
 - Run the code cells step by step to see the project results.
-
-Feel free to explore and modify the code according to your requirements. If you have any questions or feedback, please contact [Your Name] at [Your Email].
